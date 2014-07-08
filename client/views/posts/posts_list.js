@@ -15,9 +15,9 @@ var postsData = [
 		url: 'http://discovermeteor.com'
 	},
 	{
-		title: 'My First Post',
+		title: 'coddesign',
 		author: 'Renato Ramiro',
-		url: 'http://myfirstpost.com'
+		url: 'http://coddesign.co'
 	},
 ];
 
